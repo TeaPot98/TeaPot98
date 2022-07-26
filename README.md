@@ -13,6 +13,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,redux,nextjs,express,mongodb,git,heroku&theme=light&perline=5)
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
