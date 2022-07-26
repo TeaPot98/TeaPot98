@@ -14,7 +14,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,redux,nextjs,express,mongodb,git,heroku&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,redux,nextjs,express,mongodb,git,heroku&theme=light)" />
+  </a>
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=teapot98&show_icons=true&locale=en&layout=compact" alt="teapot98" /></p>
 
