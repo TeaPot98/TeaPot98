@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">An enthusiastic programmer and learner</h3>
 
-- 🔭 I’m currently working on [Fly](https://github.com/TeaPot98/fly)
+- 🔭 I’m currently working on [Fly](https://github.com/TeaPot98/chat-me)
 
-- 🌱 I’m currently learning **Typescript, Styled-Components**
+- 🌱 I’m currently learning **Node.js, Next.js**
 
 - 📫 How to reach me **trifautan@gmail.com**
 
