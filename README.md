@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">An enthusiastic programmer and learner</h3>
 
-- 🔭 I’m currently working on [Project V](https://github.com/TeaPot98/project-v-front)
+- 🔭 I’m currently working on a Unity video game
 
-- 🌱 I’m currently learning **Node.js, Next.js**
+- 🌱 I’m currently learning **C#, Unity, Blender**
 
 - 📫 How to reach me **trifautan@gmail.com**
 
