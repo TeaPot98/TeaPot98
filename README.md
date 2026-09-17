@@ -20,6 +20,6 @@
   </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=teapot98&show_icons=true&locale=en&layout=compact" alt="teapot98" /></p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=TeaPot98&langs_count=4&theme=swift)](https://github-stats-extended.vercel.app/api/top-langs?username=TeaPot98&langs_count=4&theme=swift)
 
 
